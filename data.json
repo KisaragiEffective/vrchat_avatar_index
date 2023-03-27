@@ -831,6 +831,18 @@
       "booth": {
         "item_id": 4360118
       }
+    },
+    {
+      "name": {
+        "ja": "シャペル"
+      },
+      "booth": {
+        "item_id": 1349366
+      },
+      "license": {
+        "retrieved": "2023-03-27T15:53:00+0900",
+        "spdx_license_identifier": "CC0"
+      }
     }
   ]
 }
