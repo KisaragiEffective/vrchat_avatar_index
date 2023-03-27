@@ -1,0 +1,106 @@
+{
+  "metadata": {
+    "spdx_license_identifier": "CC BY-SA-4.0",
+    "disclaimer": {
+      "human_friendly": [
+        {
+          "ja": "データの正確性は保証しない"
+        },
+        {
+          "ja": "このデータはあくまでも参考にとどめ、実際に比較・検討するときは原典を参照すること"
+        }
+      ]
+    }
+  }
+  "item": [
+    {
+      "name": {
+        "ja": "スノウエルフのお嬢様"
+      },
+      "booth": {
+        "item_id": 1202638
+      },
+      "license": {
+        "retrived": "2022-03-27T11:35:00+0900",
+        "spdx_identifier": null,
+        "terms": [
+          {
+            "applied_file": "*",
+            "consent_on_purchase": true,
+            "revision_policy": {
+              "applies": "latest",
+              "condition": "always",
+            },
+            "copyright_status": {
+              "holder": "author",
+              "modified": {
+                "holder": "author"
+              },
+              "parts": {
+                "holder": "author"
+              },
+            },
+            "modify": {
+              "value": "allow",
+            },
+            "disclaimer": [
+              {
+                "support": [
+                  "modify",
+                  "file_format_conversion",
+                  "outside_unity"
+                ],
+                "liability": [
+                  "trouble",
+                  "damage"
+                ]
+              }
+            ],
+            "upload": {
+              "value": "allow",
+              "target": "purchased_user"
+            },
+            "media": [
+              {
+                "value": "allow",
+                "monetaize": "allow",
+                "target": "indivisual"
+              },
+              {
+                "value": "allow",
+                "monetaize": "please_contact",
+                "target": "corporation"
+              }
+            ],
+            "nsfw": {
+              "value": "allow",
+              "condition": "follow_laws"
+            },
+            "r18g": {
+              "value": "allow",
+              "condition": "follow_laws"
+            },
+            "distribute": {
+              "as_is": "deny",
+              "part": "deny",
+              "derived_work": "deny",
+              "vrchat.pedestal": "deny",
+            },
+            "embed": {
+              "value": "please_contact",
+              "condition": "no_extraction"
+            },
+            "terms_language": {
+              "primary": "ja"
+            },
+            "paid_business": {
+              "value": "deny",
+              "unless": "permission"
+            },
+            "created_at": "2022-04-17"
+          }
+        ]
+      }
+    }
+  ]
+}
