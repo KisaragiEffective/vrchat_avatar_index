@@ -44,32 +44,41 @@
       "name": {
         "ja": "リア-アリス"
       },
-      "booth": {
-        "item_id": 21464
-      }
+      "distributed_at": [
+        {
+          "booth": {
+            "item_id": 21464
+          }
+        }
+      ]
     },
     {
       "name": {
         "ja": "キッシュ"
       },
-      "booth": {
-        "item_id": 954376
-      }
+      "distributed_at": [
+        {
+          "booth": {
+            "item_id": 954376
+          }
+        }
+      ]
     },
     {
       "name": {
         "ja": "メディカルセンタースタッフさん"
       },
-      "booth": {
-        "item_id": 1130532
-      }
+      "distributed_at": [
+        {
+          "booth": {
+            "item_id": 1130532
+          }
+        }
+      ]
     },
     {
       "name": {
         "ja": "スノウエルフのお嬢様"
-      },
-      "booth": {
-        "item_id": 1202638
       },
       "license": {
         "retrived": "2022-03-27T11:35:00+0900",
@@ -151,39 +160,62 @@
             "created_at": "2022-04-17"
           }
         ]
-      }
+      },
+      "distributed_at": [
+        {
+          "booth": {
+            "item_id": 1202638
+          }
+        }
+      ]
     },
     {
       "name": {
         "ja": "Lua"
       },
-      "booth": {
-        "item_id": 1255054
-      }
+      "distributed_at": [
+        {
+          "booth": {
+            "item_id": 1255054
+          }
+        }
+      ]
     },
     {
       "name": {
         "ja": "ミーシェ"
       },
-      "booth": {
-        "item_id": 1256087
-      }
+      "distributed_at": [
+        {
+          "booth": {
+            "item_id": 1256087
+          }
+        }
+      ]
     },
     {
       "name": {
         "ja": "みみの"
       },
-      "booth": {
-        "item_id": 1336133
-      }
+      "distributed_at": [
+        {
+          "booth": {
+            "item_id": 1336133
+          }
+        }
+      ]
     },
     {
       "name": {
         "ja": "ロポリこん"
       },
-      "booth": {
-        "item_id": 1415037
-      }
+      "distributed_at": [
+        {
+          "booth": {
+            "item_id": 1415037
+          }
+        }
+      ]
     },
     {
       "name": {
@@ -197,9 +229,13 @@
           "ja": "幽狐"
         }
       ],
-      "booth": {
-        "item_id": 1484117
-      }
+      "distributed_at": [
+        {
+          "booth": {
+            "item_id": 1484117
+          }
+        }
+      ]
     },
     {
       "name": {
@@ -210,33 +246,49 @@
           "ja": "のい"
         }
       ],
-      "booth": {
-        "item_id": 1572406
-      }
+      "distributed_at": [
+        {
+          "booth": {
+            "item_id": 1572406
+          }
+        }
+      ]
     },
     {
       "name": {
         "ja": "ティグリなす"
       },
-      "booth": {
-        "item_id": 1771588
-      }
+      "distributed_at": [
+        {
+          "booth": {
+            "item_id": 1771588
+          }
+        }
+      ]
     },
     {
       "name": {
         "ja": "アルディナ"
       },
-      "booth": {
-        "item_id": 1777704
-      }
+      "distributed_at": [
+        {
+          "booth": {
+            "item_id": 1777704
+          }
+        }
+      ]
     },
     {
       "name": {
         "ja": "こうめ"
       },
-      "booth": {
-        "item_id": 1791571
-      }
+      "distributed_at": [
+        {
+          "booth": {
+            "item_id": 1791571
+          }
+        }
+      ]
     },
     {
       "name": {
@@ -247,9 +299,13 @@
           "ja": "さねこ"
         }
       ],
-      "booth": {
-        "item_id": 1826902
-      }
+      "distributed_at": [
+        {
+          "booth": {
+            "item_id": 1826902
+          }
+        }
+      ]
     },
     {
       "name": {
@@ -260,49 +316,73 @@
           "ja": "きょうこ"
         }
       ],
-      "booth": {
-        "item_id": 1826902
-      }
+      "distributed_at": [
+        {
+          "booth": {
+            "item_id": 1826902
+          }
+        }
+      ]
     },
     {
       "name": {
         "ja": "メープル"
       },
-      "booth": {
-        "item_id": 1948102
-      }
+      "distributed_at": [
+        {
+          "booth": {
+            "item_id": 1948102
+          }
+        }
+      ]
     },
     {
       "name": {
         "ja": "おもち"
       },
-      "booth": {
-        "item_id": 2055160
-      }
+      "distributed_at": [
+        {
+          "booth": {
+            "item_id": 2055160
+          }
+        }
+      ]
     },
     {
       "name": {
         "ja": "レナ・カクテル"
       },
-      "booth": {
-        "item_id": 2097499
-      }
+      "distributed_at": [
+        {
+          "booth": {
+            "item_id": 2097499
+          }
+        }
+      ]
     },
     {
       "name": {
         "ja": "アル"
       },
-      "booth": {
-        "item_id": 2174830
-      }
+      "distributed_at": [
+        {
+          "booth": {
+            "item_id": 2174830
+          }
+        }
+      ]
     },
     {
       "name": {
         "ja": "ユキちゃん"
       },
-      "booth": {
-        "item_id": 2198694
-      }
+      "distributed_at": [
+        {
+          "booth": {
+            "item_id": 2198694
+          }
+        }
+      ]
     },
     {
       "name": {
@@ -313,41 +393,61 @@
           "ja": "はっか"
         }
       ],
-      "booth": {
-        "item_id": 2215270
-      }
+      "distributed_at": [
+        {
+          "booth": {
+            "item_id": 2215270
+          }
+        }
+      ]
     },
     {
       "name": {
         "ja": "ティエン"
       },
-      "booth": {
-        "item_id": 2247518
-      }
+      "distributed_at": [
+        {
+          "booth": {
+            "item_id": 2247518
+          }
+        }
+      ]
     },
     {
       "name": {
         "ja": "ミント"
       },
-      "booth": {
-        "item_id": 2258111
-      }
+      "distributed_at": [
+        {
+          "booth": {
+            "item_id": 2258111
+          }
+        }
+      ]
     },
     {
       "name": {
         "ja": "メリノ"
       },
-      "booth": {
-        "item_id": 2351859
-      }
+      "distributed_at": [
+        {
+          "booth": {
+            "item_id": 2351859
+          }
+        }
+      ]
     },
     {
       "name": {
         "ja": "すずはな"
       },
-      "booth": {
-        "item_id": 2408787
-      }
+      "distributed_at": [
+        {
+          "booth": {
+            "item_id": 2408787
+          }
+        }
+      ]
     },
     {
       "name": {
@@ -358,9 +458,13 @@
           "ja": "しらとり"
         }
       ],
-      "booth": {
-        "item_id": 2482022
-      }
+      "distributed_at": [
+        {
+          "booth": {
+            "item_id": 2482022
+          }
+        }
+      ]
     },
     {
       "name": {
@@ -371,25 +475,37 @@
           "ja": "こゆき"
         }
       ],
-      "booth": {
-        "item_id": 2554585
-      }
+      "distributed_at": [
+        {
+          "booth": {
+            "item_id": 2554585
+          }
+        }
+      ]
     },
     {
       "name": {
         "ja": "イヴ"
       },
-      "booth": {
-        "item_id": 2557029
-      }
+      "distributed_at": [
+        {
+          "booth": {
+            "item_id": 2557029
+          }
+        }
+      ]
     },
     {
       "name": {
         "ja": "ラスク"
       },
-      "booth": {
-        "item_id": 2559783
-      }
+      "distributed_at": [
+        {
+          "booth": {
+            "item_id": 2559783
+          }
+        }
+      ]
     },
     {
       "name": {
@@ -400,9 +516,13 @@
           "ja": "りず・しぐま"
         }
       ],
-      "booth": {
-        "item_id": 2612937
-      }
+      "distributed_at": [
+        {
+          "booth": {
+            "item_id": 2612937
+          }
+        }
+      ]
     },
     {
       "name": {
@@ -413,129 +533,193 @@
           "ja": "がいこさん"
         }
       ],
-      "booth": {
-        "item_id": 2615713
-      }
+      "distributed_at": [
+        {
+          "booth": {
+            "item_id": 2615713
+          }
+        }
+      ]
     },
     {
       "name": {
         "ja": "イヨ"
       },
-      "booth": {
-        "item_id": 2630437
-      }
+      "distributed_at": [
+        {
+          "booth": {
+            "item_id": 2630437
+          }
+        }
+      ]
     },
     {
       "name": {
         "ja": "みなほし"
       },
-      "booth": {
-        "item_id": 2693309
-      }
+      "distributed_at": [
+        {
+          "booth": {
+            "item_id": 2693309
+          }
+        }
+      ]
     },
     {
       "name": {
         "ja": "ウルフェリア"
       },
-      "booth": {
-        "item_id": 2709610
-      }
+      "distributed_at": [
+        {
+          "booth": {
+            "item_id": 2709610
+          }
+        }
+      ]
     },
     {
       "name": {
         "ja": "ルシナ"
       },
-      "booth": {
-        "item_id": 2721156
-      }
+      "distributed_at": [
+        {
+          "booth": {
+            "item_id": 2721156
+          }
+        }
+      ]
     },
     {
       "name": {
         "ja": "U"
       },
-      "booth": {
-        "item_id": 2736146
-      }
+      "distributed_at": [
+        {
+          "booth": {
+            "item_id": 2736146
+          }
+        }
+      ]
     },
     {
       "name": {
         "ja": "ここあ"
       },
-      "booth": {
-        "item_id": 2780069
-      }
+      "distributed_at": [
+        {
+          "booth": {
+            "item_id": 2780069
+          }
+        }
+      ]
     },
     {
       "name": {
         "ja": "リンフェイ（女性型）"
       },
-      "booth": {
-        "item_id": 2928883
-      }
+      "distributed_at": [
+        {
+          "booth": {
+            "item_id": 2928883
+          }
+        }
+      ]
     },
     {
       "name": {
         "ja": "イメリス"
       },
-      "booth": {
-        "item_id": 3040745
-      }
+      "distributed_at": [
+        {
+          "booth": {
+            "item_id": 3040745
+          }
+        }
+      ]
     },
     {
       "name": {
         "ja": "こまりちゃん"
       },
-      "booth": {
-        "item_id": 3121865
-      }
+      "distributed_at": [
+        {
+          "booth": {
+            "item_id": 3121865
+          }
+        }
+      ]
     },
     {
       "name": {
         "ja": "ティコ"
       },
-      "booth": {
-        "item_id": 3123433
-      }
+      "distributed_at": [
+        {
+          "booth": {
+            "item_id": 3123433
+          }
+        }
+      ]
     },
     {
       "name": {
         "ja": "リンフェイ（男性型）"
       },
-      "booth": {
-        "item_id": 3141303
-      }
+      "distributed_at": [
+        {
+          "booth": {
+            "item_id": 3141303
+          }
+        }
+      ]
     },
     {
       "name": {
         "ja": "ギモザード"
       },
-      "booth": {
-        "item_id": 3152272
-      }
+      "distributed_at": [
+        {
+          "booth": {
+            "item_id": 3152272
+          }
+        }
+      ]
     },
     {
       "name": {
         "ja": "ヨール"
       },
-      "booth": {
-        "item_id": 3161633
-      }
+      "distributed_at": [
+        {
+          "booth": {
+            "item_id": 3161633
+          }
+        }
+      ]
     },
     {
       "name": {
         "ja": "うにに"
       },
-      "booth": {
-        "item_id": 3162696
-      }
+      "distributed_at": [
+        {
+          "booth": {
+            "item_id": 3162696
+          }
+        }
+      ]
     },
     {
       "name": {
         "ja": "ニャスカ"
       },
-      "booth": {
-        "item_id": 3162874
-      }
+      "distributed_at": [
+        {
+          "booth": {
+            "item_id": 3162874
+          }
+        }
+      ]
     },
     {
       "name": {
@@ -546,9 +730,13 @@
           "ja": "JAULA"
         }
       ],
-      "booth": {
-        "item_id": 3173031
-      }
+      "distributed_at": [
+        {
+          "booth": {
+            "item_id": 3173031
+          }
+        }
+      ]
     },
     {
       "name": {
@@ -559,9 +747,13 @@
           "ja": "ぐるす"
         }
       ],
-      "booth": {
-        "item_id": 3190100
-      }
+      "distributed_at": [
+        {
+          "booth": {
+            "item_id": 3190100
+          }
+        }
+      ]
     },
     {
       "name": {
@@ -572,17 +764,25 @@
           "ja": "あんり"
         }
       ],
-      "booth": {
-        "item_id": 3203894
-      }
+      "distributed_at": [
+        {
+          "booth": {
+            "item_id": 3203894
+          }
+        }
+      ]
     },
     {
       "name": {
         "ja": "シアノス"
       },
-      "booth": {
-        "item_id": 3224415
-      }
+      "distributed_at": [
+        {
+          "booth": {
+            "item_id": 3224415
+          }
+        }
+      ]
     },
     {
       "name": {
@@ -593,9 +793,13 @@
           "ja": "ASH"
         }
       ],
-      "booth": {
-        "item_id": 3234473
-      }
+      "distributed_at": [
+        {
+          "booth": {
+            "item_id": 3234473
+          }
+        }
+      ]
     },
     {
       "name": {
@@ -606,33 +810,49 @@
           "ja": "こくりるる"
         }
       ],
-      "booth": {
-        "item_id": 3290957
-      }
+      "distributed_at": [
+        {
+          "booth": {
+            "item_id": 3290957
+          }
+        }
+      ]
     },
     {
       "name": {
         "ja": "ミュリシア"
       },
-      "booth": {
-        "item_id": 3302156
-      }
+      "distributed_at": [
+        {
+          "booth": {
+            "item_id": 3302156
+          }
+        }
+      ]
     },
     {
       "name": {
         "ja": "くろなつ"
       },
-      "booth": {
-        "item_id": 3329958
-      }
+      "distributed_at": [
+        {
+          "booth": {
+            "item_id": 3329958
+          }
+        }
+      ]
     },
     {
       "name": {
         "ja": "まりえる"
       },
-      "booth": {
-        "item_id": 3390339
-      }
+      "distributed_at": [
+        {
+          "booth": {
+            "item_id": 3390339
+          }
+        }
+      ]
     },
     {
       "name": {
@@ -643,65 +863,97 @@
           "ja": "まや"
         }
       ],
-      "booth": {
-        "item_id": 3390957
-      }
+      "distributed_at": [
+        {
+          "booth": {
+            "item_id": 3390957
+          }
+        }
+      ]
     },
     {
       "name": {
         "ja": "竜胆"
       },
-      "booth": {
-        "item_id": 3443188
-      }
+      "distributed_at": [
+        {
+          "booth": {
+            "item_id": 3443188
+          }
+        }
+      ]
     },
     {
       "name": {
         "ja": "カリン"
       },
-      "booth": {
-        "item_id": 3470989
-      }
+      "distributed_at": [
+        {
+          "booth": {
+            "item_id": 3470989
+          }
+        }
+      ]
     },
     {
       "name": {
         "ja": "ノイズ"
       },
-      "booth": {
-        "item_id": 3481481
-      }
+      "distributed_at": [
+        {
+          "booth": {
+            "item_id": 3481481
+          }
+        }
+      ]
     },
     {
       "name": {
         "ja": "うささき"
       },
-      "booth": {
-        "item_id": 3550881
-      }
+      "distributed_at": [
+        {
+          "booth": {
+            "item_id": 3550881
+          }
+        }
+      ]
     },
     {
       "name": {
         "ja": "あのん"
       },
-      "booth": {
-        "item_id": 3564947
-      }
+      "distributed_at": [
+        {
+          "booth": {
+            "item_id": 3564947
+          }
+        }
+      ]
     },
     {
       "name": {
         "ja": "コニカ"
       },
-      "booth": {
-        "item_id": 3647688
-      }
+      "distributed_at": [
+        {
+          "booth": {
+            "item_id": 3647688
+          }
+        }
+      ]
     },
     {
       "name": {
         "ja": "リーファ"
       },
-      "booth": {
-        "item_id": 3659436
-      }
+      "distributed_at": [
+        {
+          "booth": {
+            "item_id": 3659436
+          }
+        }
+      ]
     },
     {
       "name": {
@@ -712,25 +964,37 @@
           "ja": "ききょ"
         }
       ],
-      "booth": {
-        "item_id": 3681787
-      }
+      "distributed_at": [
+        {
+          "booth": {
+            "item_id": 3681787
+          }
+        }
+      ]
     },
     {
       "name": {
         "ja": "セレアーテ"
       },
-      "booth": {
-        "item_id": 3738752
-      }
+      "distributed_at": [
+        {
+          "booth": {
+            "item_id": 3738752
+          }
+        }
+      ]
     },
     {
       "name": {
         "ja": "ハオラン"
       },
-      "booth": {
-        "item_id": 3818504
-      }
+      "distributed_at": [
+        {
+          "booth": {
+            "item_id": 3818504
+          }
+        }
+      ]
     },
     {
       "name": {
@@ -741,9 +1005,13 @@
           "ja": "ぷらちな"
         }
       ],
-      "booth": {
-        "item_id": 3950859
-      }
+      "distributed_at": [
+        {
+          "booth": {
+            "item_id": 3950859
+          }
+        }
+      ]
     },
     {
       "name": {
@@ -754,41 +1022,61 @@
           "ja": "みなせ"
         }
       ],
-      "booth": {
-        "item_id": 4013951
-      }
+      "distributed_at": [
+        {
+          "booth": {
+            "item_id": 4013951
+          }
+        }
+      ]
     },
     {
       "name": {
         "ja": "ナユ"
       },
-      "booth": {
-        "item_id": 4023598
-      }
+      "distributed_at": [
+        {
+          "booth": {
+            "item_id": 4023598
+          }
+        }
+      ]
     },
     {
       "name": {
         "ja": "セレスティア"
       },
-      "booth": {
-        "item_id": 4035411
-      }
+      "distributed_at": [
+        {
+          "booth": {
+            "item_id": 4035411
+          }
+        }
+      ]
     },
     {
       "name": {
         "ja": "ゾメちゃん"
       },
-      "booth": {
-        "item_id": 4118550
-      }
+      "distributed_at": [
+        {
+          "booth": {
+            "item_id": 4118550
+          }
+        }
+      ]
     },
     {
       "name": {
         "ja": "ソラハ"
       },
-      "booth": {
-        "item_id": 4208278
-      }
+      "distributed_at": [
+        {
+          "booth": {
+            "item_id": 4208278
+          }
+        }
+      ]
     },
     {
       "name": {
@@ -799,25 +1087,37 @@
           "ja": "いなば"
         }
       ],
-      "booth": {
-        "item_id": 4213786
-      }
+      "distributed_at": [
+        {
+          "booth": {
+            "item_id": 4213786
+          }
+        }
+      ]
     },
     {
       "name": {
         "ja": "New NecoMaid"
       },
-      "booth": {
-        "item_id": 4252664
-      }
+      "distributed_at": [
+        {
+          "booth": {
+            "item_id": 4252664
+          }
+        }
+      ]
     },
     {
       "name": {
         "ja": "まめひなた"
       },
-      "booth": {
-        "item_id": 4340548
-      }
+      "distributed_at": [
+        {
+          "booth": {
+            "item_id": 4340548
+          }
+        }
+      ]
     },
     {
       "name": {
@@ -828,21 +1128,29 @@
           "ja": "ますきゃ"
         }
       ],
-      "booth": {
-        "item_id": 4360118
-      }
+      "distributed_at": [
+        {
+          "booth": {
+            "item_id": 4360118
+          }
+        }
+      ]
     },
     {
       "name": {
         "ja": "シャペル"
       },
-      "booth": {
-        "item_id": 1349366
-      },
       "license": {
         "retrieved": "2023-03-27T15:53:00+0900",
         "spdx_license_identifier": "CC0"
-      }
+      },
+      "distributed_at": [
+        {
+          "booth": {
+            "item_id": 1349366
+          }
+        }
+      ]
     }
   ]
 }
